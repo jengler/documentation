@@ -35,7 +35,8 @@ class UserAttemptedToRunCommandWithoutClusterErrorHandler {
 }
 ```
 
-1. React Store
+1. React prop
+```javascript
 class UserAttemptedToRunCommandWithoutClusterErrorHandler {
   render() {
     const clusterPermissions = this.props.clusterPermissions;
@@ -47,3 +48,4 @@ class UserAttemptedToRunCommandWithoutClusterErrorHandler {
     );
   }
 }
+```
