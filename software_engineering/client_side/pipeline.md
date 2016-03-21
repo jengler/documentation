@@ -4,7 +4,7 @@
 http://jaredtong.com/2016/01/08/how-to-set-up-mocha-chai-sinon-karma-browserify-istanbul-codecov/
 
 ## Dependencies
-npm install --save-dev babel-preset-es2015 babelify browserify-istanbul karma karma-browserify karma-chrome-launcher karma-coverage karma-mocha karma-phantomjs-launcher karma-sinon karma-chai karma-mocha mocha phantomjs phantomjs-prebuilt karma-mocha-reporter browserify-istanbul
+npm install --save-dev babel-preset-es2015 babelify browserify-istanbul karma karma-browserify karma-chrome-launcher karma-coverage karma-mocha karma-phantomjs-launcher karma-sinon karma-chai karma-mocha mocha phantomjs phantomjs-prebuilt karma-mocha-reporter browserify-istanbul isparta
 
 ## package.json
 ```json
